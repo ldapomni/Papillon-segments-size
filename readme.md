@@ -1,0 +1,1 @@
+Zabbix monitoring for Papillon segments on memoryboxs
