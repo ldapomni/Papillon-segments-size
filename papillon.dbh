@@ -1,0 +1,772 @@
+#
+# Description of segments DB: 'Papillon-7'
+#                   DB owner: 'ИЦ МВД р.Удмуртия(крим.рег.)'
+#
+#   ИЦ  МВД  УР (криминальный учет)
+04f8 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0021  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0031  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0041  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0051  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0061  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0071  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0081  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 0091  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+04f8 00a1  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a2  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a3  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a4  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a5  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a6  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a7  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a8  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00a9  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00aa  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00ab  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00ac  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00ad  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00ae  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00af  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b1  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b2  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b3  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b4  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b5  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b6  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b7  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b8  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00b9  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00ba  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00bb  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00bc  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00bd  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00be  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00bf  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c1  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c2  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c3  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c4  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c5  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c6  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c7  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00c8  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 x
+04f8 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 x
+04f8 7802  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 x
+04f8 7803  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 x
+04f8 7804  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x
+04f8 8000  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+04f8 8800  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 9000  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb01,mb02
+04f8 9800  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02 i
+#   ИЦ  МВД  УР (обязательная регистрация)
+04f9 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:19
+04f9 0015  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 0016  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x y
+04f9 8000  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+04f9 8800  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02 i
+04f9 9000  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02
+04f9 9800  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02 i
+04fa 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:4
+04fa 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 000b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x y
+04fa 8000  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+04fa 8800  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02 i
+04fa 9000  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02
+04fa 9800  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02 i
+#   ИЦ  МВД  УР (миграционная регистрация)
+04fb 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x y
+04fb 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x y
+04fb 7802  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x y
+04fb 7803  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x y
+04fb 7804  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x y
+04fb 8000  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+04fb 8800  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02 i
+04fb 9000  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02
+04fb 9800  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02 i
+#  ЭКЦ  МВД УР 
+055b 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+055b 0011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+055b 0021  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+055b 0031  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+055b 0041  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+055b 0051  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:11
+055b 005c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 005d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 005e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 005f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0060  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0061  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0062  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0063  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0064  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0065  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0066  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x
+055b 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+055b 7802  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+055b 7803  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+055b 7804  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+055b 8000  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8002  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8003  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8004  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8005  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8006  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8007  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8008  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8009  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 800a  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 800b  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 800c  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 800d  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 800e  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8800  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+055b 8801  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+055b 8802  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+055b 8803  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb01,mb02 i
+055b 8804  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02 i
+055b 9000  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 9002  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 9003  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 9004  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 9800  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02 i
+055b 9801  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb01,mb02 i
+055b 800f  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8010  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8011  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+0261 0019  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0016  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+055b 9005  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 8012  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8013  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+04fa 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04fa 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 002f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 002e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 002d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 002c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 002b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 002a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0029  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0028  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0027  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0026  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0025  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0024  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0023  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0022  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0021  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 001f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 001e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 001d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 001c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 001b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 001a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0019  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0018  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0017  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 9006  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 8014  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8015  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+04f9 0030  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 0031  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+055b 0067  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0068  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f9 0032  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+055b 0069  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 006a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 006b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 8016  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8017  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8018  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 8019  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+055b 9007  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+055b 9008  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02
+04f8 00c9  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00ca  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 00cb  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 8701  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb01,mb02 x c:31
+055b 9701  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04 x c:31
+0261 8006  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb03,mb04
+0261 8007  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb03,mb04
+0261 9002  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb03,mb04
+04f8 00e0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f9 0040  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+04fa 0020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 y c:32
+04fb 0020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+055b 0080  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+055b 8020  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 c:32
+055b 9020  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb01,mb02 c:32
+# сегменты Индустриального РОВД
+098c 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 c:31
+098c 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04 c:31
+098c 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04 c:31
+#
+# Описание сегментов базы: 'pap'
+#           Владелец базы: 'pap'
+#
+#
+#массив nist пальцевые с-к-с 173 пары
+#
+#03f2 000d  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  f o b:mb01,mb02 r
+#0001 8001  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  l o b:mb01,mb02 r
+#
+#массив пальцевые с-с 100 следов 59 пар
+#
+#0001 8002  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  l o b:mb01,mb02 r
+#
+# массив карта-карта трупы спб 200 карт 100 пар
+#
+#0001 0001  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  f o b:mb01,mb02 r
+#
+# массив ладонные с-к-с 130 следов 133 пары
+#
+#0001 0002  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  f o b:mb01,mb02 r
+#0001 9001  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  t o b:mb01,mb02 r
+#
+# массив ладонные след-след 100 следов 53 пары
+#
+#0001 9002  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  t o b:mb01,mb02 r
+#03f2 000e  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  f o b:mb01,mb02 r
+#03f2 000f  /papillon1.db/TestDB  /papillon1.db/TestDB  /papillon1.db/TestDB  f o b:mb01,mb02 r
+0261 8040  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04 c:32
+0261 9020  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04 c:32
+055b 006c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+098a 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+# Deleted Fri-Dec-14-14.19.18-2007: 0989 0001  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.19-2007: 0989 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.19-2007: 0989 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.19-2007: 0989 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.19-2007: 0989 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.19-2007: 0989 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.19-2007: 0989 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.19-2007: 0989 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 000b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 000e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 000f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.20-2007: 0989 0010  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0012  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0013  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0014  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0015  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0016  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0017  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.21-2007: 0989 0018  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.22-2007: 0989 0019  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.22-2007: 0989 001a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.22-2007: 0989 001b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.22-2007: 0989 001c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.22-2007: 0989 001d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.22-2007: 0989 001e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted Fri-Dec-14-14.19.22-2007: 0989 001f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+0989 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c
+0989 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04 c:31
+0989 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04 c:31
+# Deleted Mon-Dec-17-12.28.42-2007: 098a 8001  /papillon1.db  /papillon1.db  /papillon1.db e n1000 l b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.42-2007: 098a 8002  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.43-2007: 098a 8003  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.43-2007: 098a 8004  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.43-2007: 098a 8005  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.43-2007: 098a 8006  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.43-2007: 098a 8007  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.43-2007: 098a 8008  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.43-2007: 098a 8009  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.44-2007: 098a 800a  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.44-2007: 098a 800b  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.44-2007: 098a 800c  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.44-2007: 098a 800d  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.44-2007: 098a 800e  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.44-2007: 098a 800f  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.45-2007: 098a 8010  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.45-2007: 098a 8011  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.45-2007: 098a 8012  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.45-2007: 098a 8013  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.45-2007: 098a 8014  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.45-2007: 098a 8015  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.45-2007: 098a 8016  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.46-2007: 098a 8017  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.46-2007: 098a 8018  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.46-2007: 098a 8019  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.46-2007: 098a 801a  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.46-2007: 098a 801b  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.47-2007: 098a 801c  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.47-2007: 098a 801d  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.47-2007: 098a 801e  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+# Deleted Mon-Dec-17-12.28.47-2007: 098a 801f  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+098a 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04 c:31
+098b 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 c:32
+098b 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04 c:32
+098b 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04 c:32
+098a 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04
+0261 0017  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0018  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 001a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 001b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 001c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 001d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 001e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 001f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0021  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0022  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0023  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0024  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0025  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0026  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+04f8 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb01,mb02
+04f8 8801  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 8802  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+098a 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+098a 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+098a 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+055b 1000  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+# Deleted Mon-Feb--1-13.59.27-2010: 055b 1001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 d u
+# Deleted Thu-Jul--9-15.05.13-2009: 0261 0015  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+# Deleted Thu-Jul--9-15.06.49-2009: 0261 0015  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+# Deleted Thu-Jul--9-15.10.51-2009: 0261 0015  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+# Deleted Thu-Jul--9-15.15.19-2009: 0261 0015  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+# Deleted Thu-Jul--9-15.17.34-2009: 0261 0014  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+0261 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 000b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 000e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 000f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0012  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0013  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0014  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 0015  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+# Deleted Mon-Jul-20-12.24.51-2009: 04f9 0033  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+0261 0010  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+# Deleted Fri-Jul-24-14.28.31-2009: 04f9 0033  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+04f9 0014  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02
+0a8d 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 c:15
+0a8d 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04 c:8
+0a8d 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04 c:8
+04f8 8803  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+055b 801a  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02
+0061 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+055b 1001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 1002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d y
+04f8 7805  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+01fd 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 000b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+01fd 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04
+055b 1003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 1004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+# Deleted Wed-Apr--7-11.21.19-2010: 04fc 0001  /papillon1.db  /papillon1.db  /papillon1.db e m635 f y b:mb01,mb02
+# Deleted Wed-Apr--7-11.21.19-2010: 04fc 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.20-2010: 04fc 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.20-2010: 04fc 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.20-2010: 04fc 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.20-2010: 04fc 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.21-2010: 04fc 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.21-2010: 04fc 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.21-2010: 04fc 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.21-2010: 04fc 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.22-2010: 04fc 000b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.22-2010: 04fc 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.22-2010: 04fc 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.22-2010: 04fc 000e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.23-2010: 04fc 000f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.23-2010: 04fc 0010  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.23-2010: 04fc 0011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.23-2010: 04fc 0012  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.23-2010: 04fc 0013  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.24-2010: 04fc 0014  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.24-2010: 04fc 0015  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.24-2010: 04fc 0016  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.24-2010: 04fc 0017  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.25-2010: 04fc 0018  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.25-2010: 04fc 0019  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.25-2010: 04fc 001a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.25-2010: 04fc 001b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.25-2010: 04fc 001c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.26-2010: 04fc 001d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.26-2010: 04fc 001e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.26-2010: 04fc 001f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+# Deleted Wed-Apr--7-11.21.26-2010: 04fc 0020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 y
+04fc 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+04fc 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x y
+04f8 00cc  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02
+04f8 8002  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+04f8 9801  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02 i
+# Deleted Wed-Jul--7-16.04.53-2010: 04f8 8804  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+# Deleted Wed-Jul--7-16.06.10-2010: 04f8 8804  /papillon1.db  /papillon1.db  /papillon1.db e n1000 l b:mb01,mb02
+04f8 8804  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+055b 006d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 g c
+055b 00a0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 d g c
+# Deleted 2010-07-22 17:21:51: 04fd 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02
+# Deleted 2010-07-22 17:21:51: 04fd 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+04fd 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 y
+04fd 7800  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x y
+098a 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 g
+098a 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 g
+# Deleted 2010-08-03 14:45:45: 04f8 780a  /papillon1.db  /papillon1.db  /papillon1.db e m635 f x g b:mb01,mb02
+04f8 7806  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x g
+# Deleted 2010-08-25 14:56:53: 055b 007d  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+055b 00b0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f8 00cd  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+# Deleted 2010-11-11 10:44:45: 04f8 0100  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02 c
+055b 7805  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 x g
+# Deleted 2010-12-15 17:06:16: 0a8d 9009  /papillon1.db  /papillon1.db  /papillon1.db e n1000 t b:mb01,mb02
+055b 6001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 y
+# Deleted 2011-02-15 17:13:41: 04f9 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 i c:19
+# Deleted 2011-02-15 11:42:23: 04f9 0060  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb01,mb02
+04f9 0033  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 0034  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 0035  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+# Deleted 2011-02-15 17:15:49: 04f9 0036  /papillon1.db  /papillon1.db  /papillon1.db e m635 f y b:mb01,mb02 c:5
+04f9 0036  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 0037  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 0038  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 0039  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 003a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f8 8805  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 8806  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+098a 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+04f9 0060  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+055b 0109  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 0110  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+055b 00d0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+055b 00f0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c
+055b 007d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+04f8 0100  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f8 8807  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 8808  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 9802  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02 i
+04f9 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x y
+04f9 7802  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x y
+098b 0021  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 g
+0261 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 g
+098a 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 x
+0989 0011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 g
+098a 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+098a 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+098a 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 c:32
+04f8 7807  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+04f8 7808  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+04f8 7809  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+04f8 780a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 x
+#04f8 00dd  /papillon1.db  /papillon1.db  /papillon1.db e m635 f y b:mb01,mb02
+04f8 0180  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f8 0120  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f8 0140  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f8 0160  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f9 0080  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+04f9 00a0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+04fb 0040  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+04fb 0060  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:32
+055b d190  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d c:32
+055b 0130  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+055b 0150  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+055b 0170  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+098c 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 x c:31
+04f9 3001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 3002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 3003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 3004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 3005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 3006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 3007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 3001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 3001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 3002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fc 3001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fc 3002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+0989 0012  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 c:32
+04f8 8809  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+055b 8040  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 c:32
+055b 8060  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04 c:32
+055b 9040  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb03,mb04 c:32
+04fb 3004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fc 3003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 300b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fa 3002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04fb 3003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f8 880a  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f9 3008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 3009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+04f9 300a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y
+0bcd 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 x
+0bcd 7802  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 x y
+0bcd 7803  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 i y
+0bcd 7804  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 i
+055b 801b  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02 d
+055b 9009  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02 d
+055b 007e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 d g
+0bcd 7805  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 x g
+0bcd 8001  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb03,mb04
+0bcd 8002  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb03,mb04
+0bcd 9001  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb03,mb04
+0bcd 9002  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04
+0bcd 8801  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb03,mb04 i
+0bcd 9801  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb03,mb04 i
+055b 900a  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02 d
+0bcd 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+04f8 880b  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 880c  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+055b 007f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+04f8 8901  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o j b:mb01,mb02 g
+04f8 880d  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 j b:mb01,mb02 i g
+04f8 880e  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e j b:mb01,mb02 x g
+04f8 8902  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e j b:mb01,mb02 d g
+055b 8901  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 j b:mb01,mb02 g
+055b 8805  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e j b:mb01,mb02 i g
+055b 8806  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e j b:mb01,mb02 x g
+055b 8902  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e j b:mb01,mb02 d g
+0989 0032  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+0989 0033  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 y
+0261 0027  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 y
+0261 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 i y
+0261 7802  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 x y
+0261 0028  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 d y
+098b 0022  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 y
+098b 7801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 i y
+098b 7802  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 x y
+0bcd 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 y
+055b 0100  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 7806  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 i g
+055b 8903  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e j b:mb01,mb02 g
+055b 0101  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb01,mb02 g
+0bcd 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 g
+04f8 9803  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02 i
+04f8 01a0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 g c:32
+04f8 780b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 i g
+0bcd 7806  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 x
+055b 801c  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+055b 0102  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02
+055b 900b  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb01,mb02
+04f8 8003  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+04f8 880f  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 8810  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 9804  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb01,mb02 i
+0bcd 7807  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 x
+04f9 00c0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y c:32
+04f9 00e0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 y c:32
+055b 0190  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+055b 8080  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb03,mb04 c:32
+055b 9060  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 e b:mb03,mb04 c:32
+0bcd 7808  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 x
+0bcd 7809  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 x
+0bcd 7810  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 x c:32
+04f8 77e0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 r g c:31
+055b 801d  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 e b:mb01,mb02
+04f8 8811  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb01,mb02 i
+04f8 3000  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f9 300c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 y c:20
+04f8 8820  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb01,mb02 i c:32
+0bcd 6801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 i g c:15
+0bcd 8003  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb03,mb04
+0bcd 6001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 g c:15
+04fb 0080  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y c:32
+04f8 8812  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o j b:mb01,mb02 g
+04f8 0200  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 c:32
+04f8 01c0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f8 01e0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+
+#0a8d 0010  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 cb:mb01,mb02
+#0a8d 0020  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 y b:mb01,mb02 c:8
+#0a8d 0030  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 g b:mb01,mb02 c
+#0a8d 0040  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 e b:mb01,mb02 c
+#0a8d 0050  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 e b:mb01,mb02 c
+#0a8d 7801  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 x b:mb01,mb02
+#0a8d 7802  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 o d b:mb01,mb02
+#0a8d 7803  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 d b:mb01,mb02
+#0a8d 7804  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 d y b:mb01,mb02
+#0a8d 7805  /papillon1.db/  /papillon1.db/  /papillon1.db/  f m635 e d y b:mb01,mb02
+#0a8d 8002  /papillon1.db/  /papillon1.db/  /papillon1.db/  l n1000 b:mb01,mb02
+#0a8d 8003  /papillon1.db/  /papillon1.db/  /papillon1.db/  l n1000 e b:mb01,mb02
+#0a8d 8004  /papillon1.db/  /papillon1.db/  /papillon1.db/  l n1000 e b:mb01,mb02
+#0a8d 8005  /papillon1.db/  /papillon1.db/  /papillon1.db/  l n1000 e b:mb01,mb02
+#0a8d 9002  /papillon1.db/  /papillon1.db/  /papillon1.db/  t n1000 e b:mb01,mb02
+#0a8d 9003  /papillon1.db/  /papillon1.db/  /papillon1.db/  t n1000 e b:mb01,mb02
+#0a8d 9004  /papillon1.db/  /papillon1.db/  /papillon1.db/  t n1000 e b:mb01,mb02
+#0a8d 9005  /papillon1.db/  /papillon1.db/  /papillon1.db/  t n1000 e b:mb01,mb02
+#0a8d 8801  /papillon1.db/  /papillon1.db/  /papillon1.db/  l n1000 i b:mb01,mb02
+#0a8d 8802  /papillon1.db/  /papillon1.db/  /papillon1.db/  l n1000 e i b:mb01,mb02
+#0a8d 8803  /papillon1.db/  /papillon1.db/  /papillon1.db/  l n1000 e i b:mb01,mb02
+#0a8d 9801  /papillon1.db/  /papillon1.db/  /papillon1.db/  t n1000 i b:mb01,mb02
+#0a8d 9802  /papillon1.db/  /papillon1.db/  /papillon1.db/  t n1000 e i b:mb01,mb02
+#0a8d 9803  /papillon1.db/  /papillon1.db/  /papillon1.db/  t n1000 e i b:mb01,mb02
+
+04fc 0021  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y c:31
+04fc 0040  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 y c:32
+04f8 9805  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb03,mb04 i
+055b 1005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d y
+055b 1010  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d y
+055b 1011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d y
+055b 1012  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d y
+055b 1013  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1014  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+0261 0029  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 002a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 002b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 8004  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 o b:mb03,mb04
+0bcd 8005  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 b:mb03,mb04
+04f8 0220  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f8 0240  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+055b 1015  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1016  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 01b0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 c:32
+055b 1017  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1018  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+04f8 a000  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 r c:32
+055b 1019  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 101a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 101b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 101c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 101d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 101e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 101f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1021  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1022  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1023  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1024  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1025  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1026  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1027  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b d210  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d c:32
+04fb 00a0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y c:32
+04f8 0260  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f8 0280  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+0001 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 y
+04f8 9806  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb03,mb04 i
+04f8 02a0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f8 02c0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f8 02e0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f9 3020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 y c:20
+04fb 00c0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y c:32
+0bcd 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 0006  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+04f8 a020  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 r c:32
+0bcd 0007  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 0008  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+04f8 0300  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+055b 1028  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 1029  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d y
+04f8 9807  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 o b:mb03,mb04 i
+0261 002c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0261 002d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04
+055b 0103  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+04f8 0320  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+055b 1030  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+04f8 0340  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f8 0360  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+0bcd 0009  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 000a  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 000b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+# Deleted 2021-09-20 17:42:45: 04fb 000b  /papillon1.db  /papillon1.db  /papillon1.db e m635 f b:mb03,mb04
+# Deleted 2021-09-20 17:42:46: 04fb 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+# Deleted 2021-09-20 17:42:46: 04fb 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+# Deleted 2021-09-20 17:42:46: 04fb 000e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+04fb 000b  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y
+04fb 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y
+04fb 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y
+04fb 000e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 y
+# Deleted 2021-10-28 10:13:14: 04f8 a040  /papillon1.db  /papillon1.db  /papillon1.db e n1000 l g j b:mb03,mb04 c:32
+04f8 8840  /papillon1.db  /papillon1.db  /papillon1.db  l n1000 j b:mb03,mb04 g c:32
+04f8 5000  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 d y
+055b 1031  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d y
+055b 1032  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 d y
+055b 1033  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 d y
+055b 0105  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 0106  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+055b 0107  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+04fb 00e0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 y c:32
+04fb 000f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 y
+04fb 0100  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 y c:32
+04fd 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04
+04fd 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 y
+# Deleted 2022-02-07 17:00:32: 0261 002e  /papillon1.db  /papillon1.db  /papillon1.db e m635 f g b:mb03,mb04
+0261 6801  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 x g
+361b 0001  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04
+361b 0002  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+361b 0003  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+361b 0004  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+361b 0005  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
+0bcd 000c  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+04f8 00dd  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 y
+04f8 9808  /papillon1.db  /papillon1.db  /papillon1.db  t n1000 b:mb03,mb04 i
+0bcd 000d  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 000e  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+04f8 0380  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 c:32
+04f8 03a0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 c:32
+# Deleted 2022-08-31 09:51:41: 04f8 7830  /papillon1.db  /papillon1.db  /papillon1.db e m635 f x y b:mb03,mb04
+0bcd 7830  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 x y c:32
+0bcd 000f  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04
+0bcd 0010  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 x
+04f8 00de  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb03,mb04 d
+055b 0999  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb03,mb04 d
+0bcd 0011  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02
+055b 0998  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 1034  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 1035  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0997  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0996  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0995  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0994  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0990  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0991  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0992  /papillon1.db  /papillon1.db  /papillon1.db  f m635 o b:mb01,mb02 d
+055b 0993  /papillon1.db  /papillon1.db  /papillon1.db  f m635 b:mb01,mb02 d
+04f8 03c0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 c:32
+04f9 0100  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 y c:32
+04fa 0040  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 y c:32
+055b 01d0  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04 c:32
+0bcd 0012  /papillon1.db  /papillon1.db  /papillon1.db  f m635 e b:mb03,mb04
