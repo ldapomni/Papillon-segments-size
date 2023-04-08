@@ -32,6 +32,7 @@ func scanMB(num int, seg *[]SegmentDBH, sdbh chan int, cmd chan string, wg *sync
 
 }
 func getSegmentData(seg *SegmentDBH) {
+	var err error
 	start := time.Now()
 	// var stdout bytes.Buffer
 	// var stderr bytes.Buffer
@@ -39,25 +40,23 @@ func getSegmentData(seg *SegmentDBH) {
 	if debug == 1 {
 		fmt.Printf("MB:%s Path:%s\n", seg.place, seg.path)
 	}
-	//res, err := exec.Command("/bin/bash", "/opt/segments/run.sh", seg.place, seg.path).Output()
-	//res, err := exec.Command("/opt/segments/test.sh", seg.place, "'du -sb "+seg.path+"|cut -f 1'").CombinedOutput()
+
 	res, err := exec.Command("/usr/bin/ssh", "-Y", seg.place, "du", "-sb", seg.path, "|", "cut", "-f", "1").Output()
+	//res := int(rand.Float32() * 640 * 1024 * 10124)
 	if debug == 1 {
 		log.Printf("res: %s,%s\n%s\n", seg.place, seg.path, string(res))
 	}
 	if err != nil {
 		log.Fatalln(err)
-		//return
 	}
 
-	//find /home/! -type f|wc -l
 	res2, err := exec.Command("/usr/bin/ssh", "-Y", seg.place, "find", seg.path, "-type", "f", "|", "wc", "-l").Output()
+	//res2 := int(rand.Float32() * 1000)
 	if debug == 1 {
 		log.Printf("res: %s,%s\n%s\n", seg.place, seg.path, string(res2))
 	}
 	if err != nil {
 		log.Fatalln(err)
-		//return
 	}
 
 	elapsed := float64(time.Since(start)) / float64(time.Second)

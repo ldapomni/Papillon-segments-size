@@ -14,6 +14,7 @@ type baseSegType struct {
 	files   int
 	cluster int
 	size    int64
+	tsize   string
 }
 
 func writeBase(db *sql.DB, seg *[]SegmentDBH) {
@@ -51,18 +52,42 @@ func writeBase(db *sql.DB, seg *[]SegmentDBH) {
 		}
 		procent := 0
 		el := en.base + "_" + en.stype + "_" + en.flags
+		var bs baseSegType
 		switch en.status {
 		case "e":
 			procent = 0
-			///?????
+			///Учет процекнта с пустыми сегментами
 			if t, ok := baseData[el]; ok {
-				t.files = t.files + en.segFiles
-				t.cluster = t.cluster + en.cluster
-				t.size = t.size + int64(en.segSize)
+				bs.files = t.files + en.segFiles
+				bs.cluster = t.cluster + en.cluster
+				bs.size = t.size + int64(en.segSize)
+				bs.tsize = en.tsize
+				baseData[el] = bs
+
+			} else {
+				bs.files = en.segFiles
+				bs.cluster = en.cluster
+				bs.size = int64(en.segSize)
+				bs.tsize = en.tsize
+				baseData[el] = bs
 			}
 		case "o":
 			procent = 100
 		case "":
+			if t, ok := baseData[el]; ok {
+				bs.files = t.files + en.segFiles
+				bs.cluster = t.cluster + en.cluster
+				bs.size = t.size + int64(en.segSize)
+				bs.tsize = en.tsize
+				baseData[el] = bs
+
+			} else {
+				bs.files = en.segFiles
+				bs.cluster = en.cluster
+				bs.size = int64(en.segSize)
+				bs.tsize = en.tsize
+				baseData[el] = bs
+			}
 			if en.tsize == "m635" {
 				if en.segSize > 0 {
 					procent = int(float64(en.segSize) / (float64(en.cluster) * 635 * 1024 * 1204) * 100)
@@ -96,20 +121,38 @@ func writeBase(db *sql.DB, seg *[]SegmentDBH) {
 			log.Fatalln(err.Error())
 
 		}
-		if en.status != "o" {
-			el := en.base + "_" + en.stype
-			if t, ok := baseprocent[el]; ok {
-				if procent > t {
-					baseprocent[el] = procent
-				}
+	}
+	//Общий процент по базе
+	for base, pr := range baseData {
+		s := strings.Split(base, "_")
+		procent := 0
+		if pr.tsize == "m635" {
+			if pr.size > 0 {
+				procent = int(float64(pr.size) / (float64(pr.cluster) * 635 * 1024 * 1204) * 100)
 			} else {
+				procent = 0
+			}
+		}
+		if pr.tsize == "n1000" {
+			if pr.files > 0 {
+				procent = int(float64(pr.files) / (float64(pr.cluster) * 1000) * 100)
+			} else {
+				procent = 0
+			}
+		}
+		el := s[0] + "_" + s[1]
+		if t, ok := baseprocent[el]; ok {
+			if procent > t {
 				baseprocent[el] = procent
 			}
+		} else {
+			baseprocent[el] = procent
 		}
 
 	}
 
 	for base, pr := range baseprocent {
+		//fmt.Println(base, procent)
 		baseseg = append(baseseg, "{\"{#ITEMNAME}\": \""+base+"\"}")
 		metrics = append(metrics, NewMetric(zabbixName, "base["+base+"]", strconv.Itoa(pr), time.Now().Unix()))
 	}
