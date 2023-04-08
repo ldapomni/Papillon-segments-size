@@ -75,6 +75,7 @@ func init() {
 		log.Print("No .env file found")
 	}
 }
+
 func main() {
 	//! ssh mb01  "du -sb /papillon1.db/04f80001.ss" в байтах
 
@@ -87,16 +88,21 @@ func main() {
 	if err != nil {
 		log.Println(err)
 	}
-	papillonDBHFile = filepath.Dir(path) + string(os.PathSeparator) + "papillon.dbh"
-	papillonDBHFile = "/papillon1/conf/papillon.dbh"
 
 	dsnenv, exists := os.LookupEnv("PAPILLON_DSN")
 	if !exists {
 		log.Println("No DSN in .env")
 	}
+	zabbix_host, exists := os.LookupEnv("ZABBIX_HOST")
+	if !exists {
+		log.Println("No zabbix host in .env")
+	}
+
+	papillonDBHFile = filepath.Dir(path) + string(os.PathSeparator) + "papillon.dbh"
+	papillonDBHFile = "/papillon1/conf/papillon.dbh"
 
 	flag.StringVar(&zabbixName, "zabbix_name", "Papillon1.DB", "Zabbix monitoring hostname")
-	flag.StringVar(&zabbixHost, "zabbix_host", "zabbix.mvd.udm.ru", "Zabbix server")
+	flag.StringVar(&zabbixHost, "zabbix_host", zabbix_host, "Zabbix server")
 	flag.IntVar(&zabbixPort, "zabbix_port", 10051, "Zabbix port")
 	dsn := flag.String("dsn", dsnenv, "MySQL DSN String - user:pass@tcp(ip:3306)/base")
 	//	flag.StringVar(&dsn,"dsn", "root@tcp(db.mvd.udm.ru:3306)/lscan", "MySQL DSN String - user:pass@tcp(ip:3306)/base")
@@ -136,18 +142,22 @@ func main() {
 			curSegment.segFiles = 0
 			curSegment.segSize = 0
 			curSegment.status = ""
+			curSegment.stype = ""
+			curSegment.tsize = ""
 
 			curSegment.base = arr[0]
 			curSegment.segment = arr[1]
 			curSegment.path1 = arr[2]
-
 			curSegment.path2 = arr[3]
 			curSegment.path3 = arr[4]
-			curSegment.stype = arr[5]
-			curSegment.tsize = arr[6]
-			for i := 7; i < len(arr); i++ {
+
+			for i := 5; i < len(arr); i++ {
 				t := strings.Split(arr[i], ":")
 				switch t[0] {
+				case "m635", "n1000":
+					curSegment.tsize = t[0]
+				case "t", "f", "l":
+					curSegment.stype = t[0]
 				case "e", "o":
 					curSegment.status = t[0]
 				case "d", "x", "g", "j", "i", "r", "u", "k", "s", "y":
